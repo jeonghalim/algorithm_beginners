@@ -1,0 +1,36 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algo", "algo\algo.csproj", "{BB1AF941-8865-432F-B9C0-4D00A610E272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.7", "1.7\1.7.csproj", "{B8BDD69E-4FFA-4070-BCF7-201B34848B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.3", "2.3\2.3.csproj", "{992C10D9-DC64-4D89-840F-7A4FF3591524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1AF941-8865-432F-B9C0-4D00A610E272}.Debug|x86.ActiveCfg = Debug|x86
+		{BB1AF941-8865-432F-B9C0-4D00A610E272}.Debug|x86.Build.0 = Debug|x86
+		{BB1AF941-8865-432F-B9C0-4D00A610E272}.Release|x86.ActiveCfg = Release|x86
+		{BB1AF941-8865-432F-B9C0-4D00A610E272}.Release|x86.Build.0 = Release|x86
+		{BB1AF941-8865-432F-B9C0-4D00A610E272}.Default|Any CPU.ActiveCfg = Debug|x86
+		{BB1AF941-8865-432F-B9C0-4D00A610E272}.Default|Any CPU.Build.0 = Debug|x86
+		{B8BDD69E-4FFA-4070-BCF7-201B34848B60}.Debug|x86.ActiveCfg = Debug|x86
+		{B8BDD69E-4FFA-4070-BCF7-201B34848B60}.Debug|x86.Build.0 = Debug|x86
+		{B8BDD69E-4FFA-4070-BCF7-201B34848B60}.Release|x86.ActiveCfg = Release|x86
+		{B8BDD69E-4FFA-4070-BCF7-201B34848B60}.Release|x86.Build.0 = Release|x86
+		{B8BDD69E-4FFA-4070-BCF7-201B34848B60}.Default|Any CPU.ActiveCfg = Debug|x86
+		{B8BDD69E-4FFA-4070-BCF7-201B34848B60}.Default|Any CPU.Build.0 = Debug|x86
+		{992C10D9-DC64-4D89-840F-7A4FF3591524}.Debug|x86.ActiveCfg = Debug|x86
+		{992C10D9-DC64-4D89-840F-7A4FF3591524}.Debug|x86.Build.0 = Debug|x86
+		{992C10D9-DC64-4D89-840F-7A4FF3591524}.Release|x86.ActiveCfg = Release|x86
+		{992C10D9-DC64-4D89-840F-7A4FF3591524}.Release|x86.Build.0 = Release|x86
+		{992C10D9-DC64-4D89-840F-7A4FF3591524}.Default|Any CPU.ActiveCfg = Debug|x86
+		{992C10D9-DC64-4D89-840F-7A4FF3591524}.Default|Any CPU.Build.0 = Debug|x86
+	EndGlobalSection
+EndGlobal
