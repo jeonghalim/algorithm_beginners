@@ -1,0 +1,6 @@
+/Users/sm/Desktop/al/algo/3.1/bin/Debug/3.1.exe
+/Users/sm/Desktop/al/algo/3.1/bin/Debug/3.1.pdb
+/Users/sm/Desktop/al/algo/3.1/obj/x86/Debug/3.1.csprojAssemblyReference.cache
+/Users/sm/Desktop/al/algo/3.1/obj/x86/Debug/3.1.csproj.CoreCompileInputs.cache
+/Users/sm/Desktop/al/algo/3.1/obj/x86/Debug/3.1.exe
+/Users/sm/Desktop/al/algo/3.1/obj/x86/Debug/3.1.pdb

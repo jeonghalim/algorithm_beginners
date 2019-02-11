@@ -1,0 +1,5 @@
+/Users/sm/Desktop/al/algo/3.2/bin/Debug/3.2.exe
+/Users/sm/Desktop/al/algo/3.2/bin/Debug/3.2.pdb
+/Users/sm/Desktop/al/algo/3.2/obj/x86/Debug/3.2.csproj.CoreCompileInputs.cache
+/Users/sm/Desktop/al/algo/3.2/obj/x86/Debug/3.2.exe
+/Users/sm/Desktop/al/algo/3.2/obj/x86/Debug/3.2.pdb
