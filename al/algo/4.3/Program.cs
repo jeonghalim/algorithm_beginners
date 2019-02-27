@@ -53,13 +53,13 @@ namespace _4._3
                 {
                     queue.Enqueue(null);
                     Console.Write(count +1 + "깊이 리스트 노드: ");
-                    list[count].ForEach(x => { Console.Write(x); });
+                    list[count].ForEach(x => { Console.Write(x+" "); });
 
                     Console.WriteLine("\n");
                     count++;
                     list.Add(new List<int>());
                 }
-                else if (queue.Count == 0)
+                else if (queue.Count == 0) // 마지막 깊이
                 {
                     Console.Write(count + 1 + "깊이 리스트 노드: ");
                     list[count].ForEach(x => { Console.Write(x); });
@@ -78,7 +78,7 @@ namespace _4._3
             root.right = new Node(3);
             root.left.left = new Node(4);
             root.left.right = new Node(5);
-            root.right.left = new Node(6);
+            root.left.left.left = new Node(6);
             root.right.right = new Node(7);
 
             root.Connect(root, root.MaxDepth(root));

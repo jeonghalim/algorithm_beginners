@@ -5,3 +5,10 @@ C:\Users\sonici\Desktop\algorithm_beginners\al\algo\4.3\obj\Debug\4.3.csproj.Cor
 C:\Users\sonici\Desktop\algorithm_beginners\al\algo\4.3\obj\Debug\4.3.exe
 C:\Users\sonici\Desktop\algorithm_beginners\al\algo\4.3\obj\Debug\4.3.pdb
 C:\Users\sonici\Desktop\algorithm_beginners\al\algo\4.3\obj\Debug\4.3.csprojAssemblyReference.cache
+C:\Users\sonici\Documents\algorithm_beginners\al\algo\4.3\bin\Debug\4.3.exe.config
+C:\Users\sonici\Documents\algorithm_beginners\al\algo\4.3\bin\Debug\4.3.exe
+C:\Users\sonici\Documents\algorithm_beginners\al\algo\4.3\bin\Debug\4.3.pdb
+C:\Users\sonici\Documents\algorithm_beginners\al\algo\4.3\obj\Debug\4.3.csprojAssemblyReference.cache
+C:\Users\sonici\Documents\algorithm_beginners\al\algo\4.3\obj\Debug\4.3.csproj.CoreCompileInputs.cache
+C:\Users\sonici\Documents\algorithm_beginners\al\algo\4.3\obj\Debug\4.3.exe
+C:\Users\sonici\Documents\algorithm_beginners\al\algo\4.3\obj\Debug\4.3.pdb
