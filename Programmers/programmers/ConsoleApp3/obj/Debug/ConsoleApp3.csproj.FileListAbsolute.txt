@@ -1,0 +1,7 @@
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

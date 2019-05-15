@@ -5,3 +5,10 @@ C:\Users\sonici\Desktop\algorithm\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.
 C:\Users\sonici\Desktop\algorithm\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 C:\Users\sonici\Desktop\algorithm\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\sonici\Desktop\algorithm\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\sonici\Documents\algorithm_beginners\Programmers\programmers\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

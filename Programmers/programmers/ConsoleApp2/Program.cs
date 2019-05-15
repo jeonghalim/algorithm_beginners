@@ -8,7 +8,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             int answer = 0;
-            int [] citations = new int[] { 3, 3, 6, 2, 5, 1, 2, 1 };
+            int [] citations = new int[] { 3, 3, 6, 2, 5, 1, 2, 1,1,1,1,1 };
 
             Array.Sort(citations);              // 올림차순
             Array.Reverse(citations);           // 내림차순 {6,5,3,3,2,2,1,1}
